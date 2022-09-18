@@ -1,7 +1,7 @@
 # LandingPage_Dynamic_Js
 Landing-page sample project using HTML,CSS,JS. Project_test
 
-# project one creating landing page
+# project one creating landing page (FrontEnd NanoDegree).
 
 ## description:
 
